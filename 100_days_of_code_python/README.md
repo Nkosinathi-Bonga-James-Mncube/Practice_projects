@@ -2,7 +2,8 @@
 - Practicing python with a  few projects in this course
 # What was covered
 - OOP
-- Panda dataframe(Display data structure in table form)
-- Using Turtle (Python drawing board)
+- Using Turtle (Python drawing board) from Day-18 up
+- Panda dataframe(Display data structure in table form) from Day-25 up
+
 
 Link to udemy course : https://www.udemy.com/course/100-days-of-code/

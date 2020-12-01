@@ -1,4 +1,5 @@
-import colorgram,random
+# import colorgram,
+import random
 from  turtle import Turtle, Screen
 
 # def hirst_painting(): used to for color_rgb_list. hve to manually remove white tinted colors
@@ -15,7 +16,7 @@ def dot_painting():
     t = Turtle()
     s = Screen()
     s.colormode(255)
-    t.speed(13)
+    t.speed(10)
     t.hideturtle()
     t.penup()
     t.goto(-500,-300)

@@ -1,4 +1,5 @@
 # 100 Days of Code - The Complete Python Pro Bootcamp for 2021
+- Practicing python with a  few projects in this course
 # What was covered
 - OOP
 - Panda dataframe(Display data structure in table form)

@@ -1,5 +1,5 @@
 # Squirrel dataframe
- -Using Panda module to read file called "Squirrel_data.csv" and create a new csv file called "squirrel_count.csv" which stores total number of black,cinnemon and grey squirrel in new dataframe called "squirel_dataframe"
+ - Using Panda module to read file called "Squirrel_data.csv" and create a new csv file called "squirrel_count.csv" which stores total number of black,cinnemon and grey squirrel in new dataframe called "squirel_dataframe"
 # Modules
  - Pandas:  https://pypi.org/project/pandas/
  

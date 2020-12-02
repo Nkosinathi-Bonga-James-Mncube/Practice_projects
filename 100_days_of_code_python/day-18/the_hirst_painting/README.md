@@ -1,7 +1,7 @@
 # The Hirst Painting
-- Re-create Hirst painting using Turtle and Colorgram module
+- Re-create Hirst painting using Turtle and Colorgram packages
  - More info: http://www.damienhirst.com/texts1/series/spots
-# Module
+# Packages
   - Cologram : https://pypi.org/project/colorgram.py/
   - Turtle   : https://pypi.org/project/turtle/
   

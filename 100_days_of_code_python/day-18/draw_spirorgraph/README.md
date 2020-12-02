@@ -1,5 +1,5 @@
 # Draw_spirorgraph
- - Create a spirograph circular  shape with random colours using Turtle module
+ - Create a spirograph circular  shape with random colours using Turtle package
  - More info : https://en.wikipedia.org/wiki/Spirograph
 # Packages 
  - Turtle: https://pypi.org/project/PythonTurtle/

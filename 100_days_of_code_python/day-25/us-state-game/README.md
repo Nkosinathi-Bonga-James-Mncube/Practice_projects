@@ -1,7 +1,10 @@
 # USA State Game
-- Prompt input from user to enter 1 of 50 USA states
-- Using Panda to read file "50_states.csv" to create a dataframe with names of 50 states with x,y coordinates(for Turtle)   
-- Display name of all correctly answered states on map on x,y coordinates with current score
+- A game to guess all the names of 50 US states
+
+# How it work
+- Using Panda to read file "50_states.csv" to create a dataframe with names of 50 states with x,y coordinates(for Turtle) 
+- Prompt user input for name of USA states
+- Display name of all correctly answered states on map on x,y coordinates with current score on turtle object
 
  # Packages
  - Turtle : https://pypi.org/project/PythonTurtle/

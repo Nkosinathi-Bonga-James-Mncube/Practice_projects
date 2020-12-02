@@ -3,7 +3,7 @@
 
 # How it work
 - Using Panda to read file "50_states.csv" to create a dataframe with names of 50 states with x,y coordinates(for Turtle) 
-- Prompt user input for name of USA states
+- Prompt user input for name of US states
 - Display name of all correctly answered states on map on x,y coordinates with current score on turtle object
 
  # Packages

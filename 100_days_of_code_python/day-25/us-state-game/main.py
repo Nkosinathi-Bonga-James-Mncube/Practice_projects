@@ -16,12 +16,10 @@ def us_states_game():
         answer = s.textinput(title=str(num)+"/50 "+"guess the corrently",prompt="What another State name?")
         if(answer !=None): 
             value=data[data["state"].str.lower() == answer.lower()]
-            if len(value)>0:
-                data.drop(42)
-                t1.penup()
-                t1.goto(value["x"].to_list()[0],value["y"].to_list()[0])
-                t1.write(answer)
-                num +=1
+            t1.penup()
+            t1.goto(value["x"].to_list()[0],value["y"].to_list()[0])
+            t1.write(answer)
+            num +=1
         else:
             s.exitonclick()
     print("You guess all state corretly!Try again")

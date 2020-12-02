@@ -1,5 +1,5 @@
 # Drawing Shapes
- - Creating shapes from 3 to 10 sides with random colours using Turtle package 
+ - Creating shapes from 3 to 10 sides with random colours using Turtle 
  # Packages
   - Turtle: https://pypi.org/project/PythonTurtle/
 # Demo 

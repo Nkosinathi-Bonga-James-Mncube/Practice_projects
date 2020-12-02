@@ -3,7 +3,7 @@
  - more info : https://en.wikipedia.org/wiki/NATO_phonetic_alphabet
 # How it works
  - Import csv file named "nato_phonetic_alphabet.csv" to create dataframe named "data" using Pandas library
- - Prompt user for name
+ - Prompt user input for name
  - Create a dictionary named "temp" using dictionary comprehension 
  - Create a array name "new_list" and loop through list index for each matching character using list comprehention 
 # Packages

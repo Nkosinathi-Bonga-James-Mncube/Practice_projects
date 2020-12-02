@@ -3,7 +3,7 @@
 - Using Panda to read file "50_states.csv" to create a dataframe with names of 50 states with x,y coordinates(for Turtle)   
 - Display name of all correctly answered states on map on x,y coordinates with current score
 
- # Module
+ # Packages
  - Turtle : https://pypi.org/project/PythonTurtle/
  - Pandas : https://pypi.org/project/pandas/
  

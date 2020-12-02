@@ -1,5 +1,5 @@
 # Random walk
-- Create a program that will display and move in random directions (N,E,S,W) on its own using Turtle package
+- Create a program that will display and move in random directions (N,E,S,W) on its own using Turtle
 - More info : https://en.wikipedia.org/wiki/Random_walk
 # Packages
 - Turtle: https://pypi.org/project/PythonTurtle/

@@ -1,5 +1,5 @@
 # Nato Phonetic Alphabet
- - A program to display the NATO Phonetic Alphabet code word for each character in your name
+ - A program to display the "NATO Phonetic Alphabet" code word for each character in your name
  - More info : https://en.wikipedia.org/wiki/NATO_phonetic_alphabet
 # How it works
  - Import csv file named "nato_phonetic_alphabet.csv" to create dataframe named "data" using Pandas library

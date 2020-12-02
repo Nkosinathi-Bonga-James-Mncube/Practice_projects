@@ -1,5 +1,5 @@
 # The Hirst Painting
-- Re-create Hirst painting using Turtle and Colorgram packages
+- Re-create Hirst painting using Turtle and Colorgram
  - More info: http://www.damienhirst.com/texts1/series/spots
 # Packages
   - Cologram : https://pypi.org/project/colorgram.py/

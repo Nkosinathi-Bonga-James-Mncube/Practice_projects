@@ -5,7 +5,7 @@
  - Import csv file named "nato_phonetic_alphabet.csv" to create dataframe named "data" using Pandas library
  - Prompt user for name
  - Create a dictionary named "temp" using dictionary comprehension 
- - Create a array name "new_list" and loop through list for each matching character using list comprehention 
+ - Create a array name "new_list" and loop through list index for each matching character using list comprehention 
 # Packages
  - Pandas : https://pypi.org/project/pandas/
 # Demo

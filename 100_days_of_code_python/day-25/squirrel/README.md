@@ -1,6 +1,6 @@
 # Squirrel dataframe
- - Using Panda module to read file called "Squirrel_data.csv" and create a new csv file called "squirrel_count.csv" which stores total number of black,cinnemon and grey squirrel in new dataframe called "squirel_dataframe"
-# Modules
+ - Using Pandas library to read file called "Squirrel_data.csv" and create a new csv file called "squirrel_count.csv" which stores total number of black,cinnemon and grey squirrel in new dataframe called "squirel_dataframe"
+# Packages
  - Pandas:  https://pypi.org/project/pandas/
  
  More info on squirrel csv resources: https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw

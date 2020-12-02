@@ -1,6 +1,6 @@
 # Nato Phonetic Alphabet
  - Print each character code in entered name according to NATO Phonetic Alphabet  
- - more info : https://en.wikipedia.org/wiki/NATO_phonetic_alphabet
+ - More info : https://en.wikipedia.org/wiki/NATO_phonetic_alphabet
 # How it works
  - Import csv file named "nato_phonetic_alphabet.csv" to create dataframe named "data" using Pandas library
  - Prompt user input for name

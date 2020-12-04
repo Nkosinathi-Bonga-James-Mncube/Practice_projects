@@ -2,7 +2,7 @@
 - Practicing python with a  few projects in this course
 - Link to [Udemy course]
 
-![python_logo](https://user-images.githubusercontent.com/50704452/101147042-83a0ad00-3624-11eb-9b5f-2848da3e96b6.png)
+![python_logo_2](https://user-images.githubusercontent.com/50704452/101151238-0710cd00-362a-11eb-892b-d893ae4ba792.png)
 # List of projects
 | Project Name        | Day          |
 | ------------- |:-------------:|

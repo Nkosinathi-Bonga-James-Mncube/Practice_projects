@@ -1,5 +1,5 @@
 # Practice_projects
-Project based on Udemy course work
+Project from Udemy course work
 
 # Languages
 

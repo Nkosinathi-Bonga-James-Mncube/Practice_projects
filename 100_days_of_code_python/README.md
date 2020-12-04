@@ -3,6 +3,17 @@
 - Link to Udemy course : https://www.udemy.com/course/100-days-of-code/
 
 ![python_logo](https://user-images.githubusercontent.com/50704452/101147042-83a0ad00-3624-11eb-9b5f-2848da3e96b6.png)
+# List of projects
+| Project Name        | Day          |
+| ------------- |:-------------:|
+| Rock,paper,scissors   | 04|
+| Password_generator    | 05|
+| Quizz Game    | 17|
+| Drawing spirorgraph    | 18|
+| Drawing_shapes    | 18|
+| Random_walk    | 18|
+| The Hirst Painting    | 18|
+
 # What was covered
 - OOP at Day-17
 - Using Turtle (Python drawing board) Day-18 up

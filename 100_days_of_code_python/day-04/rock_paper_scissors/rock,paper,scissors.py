@@ -2,12 +2,9 @@ import random
 
 def fist(input_value):
     fist_value = ''
-    if (input_value == 0):
-        fist_value = 'Throws Rock'
-    elif (input_value == 1):
-        fist_value = 'Throws Paper'
-    elif (input_value == 2):
-        fist_value = 'Throws Scissors'
+    fist_list = {0:'Throws Rock',1:'Throws Paper',2:'Throws Scissors'}
+    if input_value in fist_list:
+        fist_value=fist_list[input_value]
     return fist_value
     
 def rock_paper_scissor_game():

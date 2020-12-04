@@ -1,8 +1,9 @@
 # 100 Days of Code - The Complete Python Pro Bootcamp for 2021
+![python_logo_2](https://user-images.githubusercontent.com/50704452/101151238-0710cd00-362a-11eb-892b-d893ae4ba792.png)
 - Practicing python with a  few projects in this course
 - Link to [Udemy course]
 
-![python_logo_2](https://user-images.githubusercontent.com/50704452/101151238-0710cd00-362a-11eb-892b-d893ae4ba792.png)
+
 
 # What was covered
 - OOP

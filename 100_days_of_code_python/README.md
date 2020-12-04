@@ -3,6 +3,13 @@
 - Link to [Udemy course]
 
 ![python_logo_2](https://user-images.githubusercontent.com/50704452/101151238-0710cd00-362a-11eb-892b-d893ae4ba792.png)
+
+# What was covered
+- OOP
+- Using Turtle
+- Panda dataframe
+- Dictionary Comprehension and List Comprehension
+
 # List of projects
 | Project Name        | Day          |
 | ------------- |:-------------:|
@@ -19,11 +26,7 @@
 
 
 
-# What was covered
-- OOP
-- Using Turtle
-- Panda dataframe
-- Dictionary Comprehension and List Comprehension
+
 
 [Udemy course]: https://www.udemy.com/course/100-days-of-code/
 

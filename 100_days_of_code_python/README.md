@@ -20,10 +20,10 @@
 
 
 # What was covered
-- OOP at Day-17
-- Using Turtle (Python drawing board) Day-18 up
-- Panda dataframe(Display data structure in table form) Day-25 up
-- Dictionary Comprehension and List Comprehension Day-26 up
+- OOP
+- Using Turtle
+- Panda dataframe
+- Dictionary Comprehension and List Comprehension
 
 [Udemy course]: https://www.udemy.com/course/100-days-of-code/
 

@@ -9,10 +9,13 @@
 | Rock,paper,scissors   | 04|
 | Password_generator    | 05|
 | Quizz Game    | 17|
-| Drawing spirorgraph    | 18|
-| Drawing_shapes    | 18|
-| Random_walk    | 18|
+| Drawing spirorgraph (using Turtle)| 18|
+| Drawing_shapes (using Turtle)| 18|
+| Random_walk (using Turtle)| 18|
 | The Hirst Painting    | 18|
+| Squirrel (using dataframes + csv)    | 25|
+| USA state game (using dataframes + csv)    | 25|
+
 
 # What was covered
 - OOP at Day-17

@@ -4,9 +4,9 @@ import difflib
 def get_definition(*arg):
     for k in arg[1][arg[0].lower()]:
         print(f"->{k}")
-    
+
 def dictionary():
-    data=json.load(open("./dictionary/data.json"))
+    data=json.load(open("data.json"))
     search_term=input("Please enter word : ")
     try:
         get_definition(search_term,data)

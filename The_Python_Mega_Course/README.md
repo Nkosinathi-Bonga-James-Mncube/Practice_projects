@@ -3,12 +3,6 @@
 - Practicing python with a  few projects in this course
 - Link to [Udemy course]
 
-
-
-# What was covered
-- Using JSON
-
-
 # List of projects
 
 | Project Name        |

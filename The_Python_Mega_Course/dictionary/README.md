@@ -3,7 +3,7 @@
  
 # How it works
  - Read json file called `data.json` with library `json`
- - Prompt user for input 
+ - Prompt user for input
  - The function `get_definition()` is executed to find valid json key with values
  - If unsuccessful, using library `difflib` method called `get_close_match()` to find similar matches in json key
  - Then the user is given the choice to pick first key found with json definition values  

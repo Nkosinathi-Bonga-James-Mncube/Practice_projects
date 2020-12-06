@@ -3,7 +3,7 @@ Building projects from onlines resources
 
 # Overview
 ```bash
-|-- Python
+|--> Python
 |   |-- OOP
 |   |-- Panda Dataframes
 |   |-- Turtle

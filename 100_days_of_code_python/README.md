@@ -25,7 +25,7 @@
 | [Squirrel (using dataframes + csv)]    | 25|
 | [USA_state_game (using dataframes + csv)]    | 25|
 | [Nato_Phonetic_Alphabet (using dataframes + csv)]    | 26|
-| [Miles_to_kilometers convetor(using Tkinter)]    | 27|
+| [Miles_to_kilometers convertor(using Tkinter)]    | 27|
   
 
 
@@ -42,7 +42,7 @@
 [Squirrel (using dataframes + csv)]:https://github.com/Nkosinathi-Bonga-James-Mncube/Practice_projects/tree/main/100_days_of_code_python/day-25/squirrel
 [USA_state_game (using dataframes + csv)]:https://github.com/Nkosinathi-Bonga-James-Mncube/Practice_projects/tree/main/100_days_of_code_python/day-25/us-state-game
 [Nato_Phonetic_Alphabet (using dataframes + csv)]:https://github.com/Nkosinathi-Bonga-James-Mncube/Practice_projects/tree/main/100_days_of_code_python/day-26
-[Miles_to_kilometers convetor(using Tkinter)]: https://github.com/Nkosinathi-Bonga-James-Mncube/Practice_projects/tree/main/100_days_of_code_python/day-27
+[Miles_to_kilometers convertor(using Tkinter)]: https://github.com/Nkosinathi-Bonga-James-Mncube/Practice_projects/tree/main/100_days_of_code_python/day-27
 
 
 

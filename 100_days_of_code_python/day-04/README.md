@@ -1,5 +1,5 @@
 # Rock,Paper, Scissors game
 
- - Created a simple rock,paper,scissors game
+ - Created a simple rock,paper,scissors game against computer player
 # Demo
-![rock_paper](https://user-images.githubusercontent.com/50704452/100728997-e69a0600-33d0-11eb-9056-e2244c80923d.gif)
+![ezgif com-video-to-gif(2)](https://user-images.githubusercontent.com/50704452/101178181-5b7b7300-3651-11eb-93ac-a88131a75745.gif)

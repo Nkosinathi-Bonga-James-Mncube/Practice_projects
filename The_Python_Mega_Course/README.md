@@ -3,20 +3,14 @@
 - Practicing python with a  few projects in this course
 - Link to [Udemy course]
 
-
-
-# What was covered
-- Using JSON
-
-
 # List of projects
-| Project Name        |
-| ------------- |:
-| [Dictionary(using json)]   |
 
+| Project Name        |
+| ------------- |
+| [Dictionary(using json)]|
   
 
 
 
-Udemy course]: https://www.udemy.com/course/the-python-mega-course/
-[Dictionary(using json)]: https://www.udemy.com/course/100-days-of-code/
+[Udemy course]: https://www.udemy.com/course/the-python-mega-course/
+[Dictionary(using json)]: https://github.com/Nkosinathi-Bonga-James-Mncube/Practice_projects/tree/main/The_Python_Mega_Course/dictionary

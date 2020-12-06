@@ -6,7 +6,7 @@
  - Prompt user for input 
  - The function `get_definition()` is executed for valid key found
  - If unsuccessful, using library `difflib` method called `get_close_match()` to find similar matches in json key
- - The user is given the choice to pick first key found in with json definition value  
+ - The user is given the choice to pick first key found with json definition value  
  
 # Used Module
  - JSON : https://docs.python.org/3/library/json.html

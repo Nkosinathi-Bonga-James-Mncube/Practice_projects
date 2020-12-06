@@ -5,7 +5,7 @@ Building projects from onlines resources
 ```bash
 ├── Python
 │   ├── OOP
-│   ├── Panda Dataframes
+│   ├── Pandas Dataframes
 │   ├── Turtle
 │   ├── Tkinter
 │   └── Dictionary Comprehension and List Comprehension

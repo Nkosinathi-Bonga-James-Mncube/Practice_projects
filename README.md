@@ -1,5 +1,5 @@
 # Practice_projects
-Building Project from onlines resources
+Building projects from onlines resources
 
 # Overview
 ```bash

@@ -1,6 +1,12 @@
 # Practice_projects
 Project from Udemy course work
 
-# Languages
-
-- Python
+# Overview
+```bash
+|-- Python
+|   |-- OOP
+|   |-- Panda Dataframes
+|   |-- Turtle
+|   |-- Tkinter
+|   |-- Dictionary Comprehension and List Comprehension
+````

@@ -2,7 +2,7 @@
  - A program that searches a definition of word in json file
  
 # How it works
- - Read json file called `data.json` with library `json`
+ - Read json file called `data.json` with module `json`
  - Prompt user for input
  - The function `get_definition()` is executed to find valid json key with values
  - If unsuccessful, using library `difflib` method called `get_close_match()` to find similar matches in json key

@@ -8,6 +8,6 @@ Building projects from onlines resources
 │   ├── Pandas Dataframes
 │   ├── Turtle
 │   ├── Tkinter
-|   ├── JSON
+│   ├── JSON
 │   └── Dictionary Comprehension and List Comprehension
 ````

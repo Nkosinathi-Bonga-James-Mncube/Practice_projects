@@ -3,15 +3,6 @@
 - Practicing python with a  few projects in this course
 - Link to [Udemy course]
 
-
-
-# What was covered
-- OOP
-- Using Turtle
-- Using Tkinter
-- Panda dataframe
-- Dictionary Comprehension and List Comprehension
-
 # List of projects
 | Project Name        | Day          |
 | ------------- |:-------------:|

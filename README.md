@@ -1,5 +1,5 @@
 # Practice_projects
-Project from Udemy course work
+Building Project from onlines resources
 
 # Overview
 ```bash
